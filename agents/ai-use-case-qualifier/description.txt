@@ -1,0 +1,1 @@
+A Microsoft 365 Copilot agent that guides partners, consultants, and AI program leads through a structured qualification conversation before committing to build an AI solution. It scores the use case across five weighted dimensions, recommends the right Microsoft AI platform, surfaces top risks and success factors, and produces a shareable qualification report.
