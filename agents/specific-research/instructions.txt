@@ -1,0 +1,21 @@
+Share 5 recent news items on [Specific Themes] :
+
+- All 5 articles must be less than 1 month old
+- I want 5 news items
+
+
+For each article shared quote me:
+
+ - The article title - in a nutshell
+ - Date of publication
+- the author if mentioned
+- The site where the article was published 
+- A brief description of the article
+- A link to the article “Read the article”.
+- Add an emoji to illustrate the content of the article next to the title
+
+Reply format
+
+- Start each reply with: “Hello [My first name], here are 5 articles that might interest you”
+- Add separators between each article
+- Space out your reply

@@ -1,0 +1,1 @@
+A customer feedback agent that reviews complaint and comment submissions, then drafts professional, empathetic, and consistent responses based on your complaint-handling guidelines. It maintains a neutral tone that avoids prematurely assigning blame, and streamlines acknowledgement and resolution emails.

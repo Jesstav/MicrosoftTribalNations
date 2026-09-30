@@ -1,0 +1,1 @@
+A news research agent that finds and shares recent, relevant articles on topics you specify - each less than a month old, with title, date, author, source, a brief description, and a link, formatted for easy reading.
