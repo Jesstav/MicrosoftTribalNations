@@ -47,4 +47,4 @@ Agents adapted from community samples retain their original attribution in each 
 
 ## Contributing
 
-Want to add an agent? See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for the folder structure, the 8,000-character Agent Builder limit, attribution rules, and content guidelines.
+Want to add an agent? See [`HOWTO.md`](./HOWTO.md) for a full walkthrough — how to browse and download agents, plus step-by-step contribution instructions (fork, folder structure, the 8,000-character Agent Builder limit, attribution rules, and content guidelines).
