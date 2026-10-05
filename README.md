@@ -6,6 +6,8 @@
 
 A collection of Microsoft 365 Copilot agent instructions, packaged so they are easy to browse and paste into **Copilot Agent Builder**.
 
+> 🌐 **Companion site:** [**Microsoft 365 Copilot Use Cases for Tribal Nations**](https://jolly-mud-07a6c1e0f.6.azurestaticapps.net/) — a browsable gallery of ready-to-use Copilot prompts and scenarios tailored for Tribal Nations. Use it to discover prompts; use this repo to deploy the agents.
+
 Each agent lives in its own folder under [`agents/`](./agents) and includes:
 
 - `README.md` — what the agent does and how to build it

@@ -8,6 +8,8 @@ Welcome to the Microsoft Tribal Nations Community Repository!
 
 This repository is a place for TribalHub members, conference attendees, Microsoft partners, and community contributors to discover, download, share, and improve AI agents created during hackathons, workshops, and community events.
 
+> 🌐 **Companion site:** [**Microsoft 365 Copilot Use Cases for Tribal Nations**](https://jolly-mud-07a6c1e0f.6.azurestaticapps.net/) — a browsable gallery of ready-to-use Copilot prompts and scenarios for Tribal Nations.
+
 ---
 
 # How to Use This Repository
