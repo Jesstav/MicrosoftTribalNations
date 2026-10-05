@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/header.jpg" alt="Microsoft + Tribes — A partnership rooted in respect. Built for a better future." width="100%">
+</p>
+
 # MicrosoftTribalNations — Copilot Agent Gallery
 
 A collection of Microsoft 365 Copilot agent instructions, packaged so they are easy to browse and paste into **Copilot Agent Builder**.
