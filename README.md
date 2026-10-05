@@ -39,6 +39,8 @@ Each agent lives in its own folder under [`agents/`](./agents) and includes:
 | [Jobbify](./agents/jobbify) | Copilot Studio (agent) | Autonomous hiring-intake agent: triggered by email, matches candidates from a hiring bench, drafts a comparison doc, replies, and schedules a meeting. Instructions only. |
 | [Exec Report](./agents/exec-report) | SharePoint skill | Builds a polished, self-contained HTML executive report/dashboard from a SharePoint list, CSV, or description — sandbox-safe with no external dependencies. |
 
+> **Note:** The four **M365 Copilot (prompt)** agents (Wrap Up Your Day, Optimize My Work Schedule, Last 7 Days Recap, Professional Executive Assistant) are general-productivity prompts — broadly useful for any role, not Tribal-specific. They're included here so the community has ready-to-paste starting points alongside the tailored agents.
+
 ## How to use an agent
 
 **Agent Builder agents** (Chief of Staff, Promptly):
