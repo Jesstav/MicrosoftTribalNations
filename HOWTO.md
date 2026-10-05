@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/header.jpg" alt="Microsoft + Tribes — A partnership rooted in respect. Built for a better future." width="100%">
+</p>
+
 # Microsoft Tribal Nations Community Repository
 
 Welcome to the Microsoft Tribal Nations Community Repository!
