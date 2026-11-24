@@ -65,3 +65,75 @@ Agents adapted from community samples retain their original attribution in each 
 ## Contributing
 
 Want to add an agent? See [`HOWTO.md`](./HOWTO.md) for a full walkthrough — how to browse and download agents, plus step-by-step contribution instructions (fork, folder structure, the 8,000-character Agent Builder limit, attribution rules, and content guidelines).
+
+## Disclaimer & Terms of Use
+
+### Educational and Informational Purposes
+
+This repository is provided as a community-driven educational resource to support knowledge sharing, collaboration, and innovation across Tribal Nations.
+
+All materials, including but not limited to AI prompts, agents, scripts, code samples, templates, documentation, and other resources, are provided for informational, educational, and demonstration purposes only.
+
+### Microsoft Affiliation and Endorsement
+
+This repository is independently maintained and is not an official Microsoft product, service, or support channel. References to Microsoft products, technologies, or services do not imply official endorsement, certification, or support by Microsoft.
+
+The views, examples, and materials shared in this repository do not necessarily represent the official positions, policies, or recommendations of Microsoft Corporation.
+
+### No Warranties
+
+All materials are provided "AS IS" and "AS AVAILABLE," without warranties of any kind, express or implied, including warranties of accuracy, completeness, reliability, merchantability, fitness for a particular purpose, or noninfringement, to the extent permitted by applicable law.
+
+No guarantee is made that any resource will function as intended, remain compatible with Microsoft products, or meet an organization's specific operational, technical, regulatory, or security requirements.
+
+### Artificial Intelligence and Automation
+
+AI-generated content, prompts, agents, and automated workflows may produce inaccurate, incomplete, outdated, or unintended results.
+
+Users are solely responsible for reviewing, testing, validating, and monitoring these resources before implementing them in production environments or using them to support operational or organizational decisions.
+
+AI-generated outputs should not replace appropriate human oversight, professional judgment, or established approval processes.
+
+### Data Privacy, Security, and Tribal Sovereignty
+
+Each Tribal Nation retains responsibility for determining how technologies and resources are used within its organization in accordance with its own laws, policies, governance frameworks, cultural protocols, and data sovereignty requirements.
+
+Users should not submit confidential, sensitive, regulated, personal, or culturally protected information to AI systems or automated workflows without appropriate authorization and security safeguards.
+
+Particular care should be taken when handling Tribal citizen information, healthcare records, financial information, legal documents, government records, and traditional or culturally sensitive knowledge.
+
+Nothing in this repository is intended to supersede, diminish, or interfere with Tribal sovereignty, self-governance, or applicable Tribal laws and policies.
+
+### No Professional Advice
+
+Materials addressing legal, financial, healthcare, cybersecurity, regulatory, or governmental matters are illustrative and do not constitute professional advice.
+
+Organizations should consult qualified professionals and follow applicable laws, regulations, and internal policies before implementing solutions.
+
+### Third-Party Contributions and External Resources
+
+This repository may contain community-contributed materials, third-party resources, and links to external websites.
+
+The inclusion of such materials does not constitute endorsement or verification of their accuracy, security, reliability, or suitability.
+
+Contributors and users are responsible for ensuring they have the appropriate rights and permissions to share, modify, and use submitted materials.
+
+### Limitation of Liability
+
+To the maximum extent permitted by applicable law, the repository maintainers and contributors disclaim liability for any direct, indirect, incidental, consequential, or other damages arising from the use of, inability to use, or reliance upon the materials provided.
+
+Users assume responsibility for evaluating the suitability of resources and implementing appropriate safeguards.
+
+### Intellectual Property and Trademarks
+
+Microsoft, Microsoft 365, Microsoft Copilot, Azure, GitHub, and related product names and logos are trademarks or registered trademarks of their respective owners.
+
+All third-party trademarks remain the property of their respective owners.
+
+Use, modification, and redistribution of repository materials are subject to applicable licenses and intellectual property rights. This disclaimer does not grant additional rights to Microsoft or third-party intellectual property.
+
+### Changes to Content
+
+Repository materials may be updated, modified, or removed without notice. Microsoft product capabilities, licensing requirements, and technical specifications may change over time.
+
+Users should consult official Microsoft documentation for current product information.
